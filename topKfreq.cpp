@@ -50,6 +50,7 @@ else if(pq.size()==k){
     else if()
     else{
         print(pq);
+		print("hello");
     }
         }
     
